@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a **UI/UX Designer and Computer Science graduate** (BSc, Gold Medalist — Microlink IT College) working at the intersection of **civic technology, spatial data science, and human-centered design**. My mission is bringing data-driven, accessible urban planning tools to Ethiopian cities — starting with Addis Ababa.
+I'm a **UI/UX Designer and Computer Science graduate** (BSc, Gold Medalist, Microlink IT College) working at the intersection of **civic technology, spatial data science, and human-centered design**. My mission is bringing data-driven, accessible urban planning tools to Ethiopian cities, starting with Addis Ababa.
 
 - 🎨 Design end-to-end product experiences in **Figma** — research, wireframes, prototyping, design systems
 - 🧠 Build **Python geospatial tooling** — OSMnx, rasterio, GeoPandas, QGIS — to turn raw city data into insight
