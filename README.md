@@ -32,7 +32,7 @@ I started as a designer thinking in flows and interfaces, then went looking for 
 ## 🧭 My Journey
 
 ```text
-2021 – 2024   BSc Computer Science, Microlink IT College
+2021 – 2025   BSc Computer Science, Microlink IT College
               → Graduated top of department, 3.94 GPA, Gold Medal
               → Capstone: First-Time Parents Guidance App (2nd best CS project, cohort-wide)
 
