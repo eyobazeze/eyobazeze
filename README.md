@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Eyob%20Azeze&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%C2%B7%20CS%20Graduate%20%C2%B7%20Urban%20Spatial%20Scientist&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Eyob%20Azeze&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%C2%B7%20CS%20Graduate%20%C2%B7%20Urban%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/eyobazeze"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://eyobazeze.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
