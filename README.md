@@ -19,13 +19,13 @@
 
 I'm a **UI/UX Designer and Computer Science graduate** (BSc, Gold Medalist, Microlink IT College) working at the intersection of **civic technology, spatial data science, and human-centered design**. My mission is bringing data-driven, accessible urban planning tools to Ethiopian cities, starting with Addis Ababa.
 
-- 🎨 Design end-to-end product experiences in **Figma** — research, wireframes, prototyping, design systems
-- 🧠 Build **Python geospatial tooling** — OSMnx, rasterio, GeoPandas, QGIS — to turn raw city data into insight
-- 📊 Apply spatial statistics and analysis — network accessibility, coverage modeling, spatial ML
+- 🎨 Design end-to-end product experiences in **Figma**: research, wireframes, prototyping, design systems
+- 🧠 Build **Python geospatial tooling**: OSMnx, rasterio, GeoPandas, QGIS — to turn raw city data into insight
+- 📊 Apply spatial statistics and analysis: network accessibility, coverage modeling, spatial ML
 - 🌍 Focused on **smart cities**, transit equity, and accessibility analytics for African urban contexts
 - 🧩 Comfortable across the full stack of a civic-tech idea: design → data → working prototype
 
-I started as a designer thinking in flows and interfaces, then went looking for the data to back those decisions up — and found that most of the interesting problems in Addis Ababa (transit gaps, walkability, service access) needed real analysis, not just a prettier map. So I picked up Python, GeoPandas, and OSMnx to build tools that actually measure the city, and I use design skills to make the findings legible to people who aren't analysts. That combination — able to design the interface *and* run the numbers behind it — is what I bring to civic tech work.
+I started as a designer thinking in flows and interfaces, then went looking for the data to back those decisions up, and found that most of the interesting problems in Addis Ababa (transit gaps, walkability, service access) needed real analysis, not just a prettier map. So I picked up Python, GeoPandas, and OSMnx to build tools that actually measure the city, and I use design skills to make the findings legible to people who aren't analysts. That combination, able to design the interface *and* run the numbers behind it, is what I bring to civic tech work.
 
 <br/>
 
@@ -98,7 +98,7 @@ Built a ~71,880-node walk network (OSMnx) to model true walking-distance access 
 <td width="50%" valign="top">
 
 ### 🚦 Smart Public Transport App
-**Flagship UI/UX case study — Figma**
+**Flagship UI/UX case study, Figma**
 
 Full-flow smart transit app concept designed for Addis Ababa commuters, from wireframes to high-fidelity prototype.
 
@@ -174,8 +174,8 @@ Urban Feedback Platform, Affordable Housing Map, Inclusive Walkability Map, and 
 
 I write breakdowns of my projects and design thinking — part portfolio, part learning-in-public.
 
-- 📄 **Medium** — case studies on the Smart Public Transport App and other civic-tech concepts → [eyobazeze.medium.com](https://eyobazeze.medium.com)
-- 💼 **LinkedIn** — project walkthroughs, findings from the accessibility analyses, and progress updates → [linkedin.com/in/eyobazeze](https://linkedin.com/in/eyobazeze)
+- 📄 **Medium**: case studies on the Smart Public Transport App and other civic-tech concepts → [eyobazeze.medium.com](https://eyobazeze.medium.com)
+- 💼 **LinkedIn**: project walkthroughs, findings from the accessibility analyses, and progress updates → [linkedin.com/in/eyobazeze](https://linkedin.com/in/eyobazeze)
 
 <br/>
 
