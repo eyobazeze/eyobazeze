@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Designing+human-centered+smart+city+systems;Building+spatial+data+tools+for+Addis+Ababa;Bridging+UI%2FUX+design+and+urban+analytics;Turning+Figma+prototypes+into+working+geospatial+apps" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Designing+human-centered+smart+city+systems;Building+spatial+data+tools+for+Addis+Ababa;Bridging+UI%2FUX+design+and+urban+analytics;Turning+Figma+prototypes+into+working+apps" alt="Typing SVG"/>
 
 </div>
 
