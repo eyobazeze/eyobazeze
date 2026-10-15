@@ -46,8 +46,8 @@ I started as a designer thinking in flows and interfaces, then went looking for 
               → Structured self-study across data cleaning, spatial analysis, and mapping
 
 2025 – 2026   Portfolio Projects: Design Meets Data
-              → Transit Accessibility Analysis — Addis Ababa (OSM + WorldPop)
-              → Network Accessibility Analysis — 72k-node walk network, hospitals & schools
+              → Transit Accessibility Analysis: Addis Ababa (OSM + WorldPop)
+              → Network Accessibility Analysis: 72k-node walk network, hospitals & schools
               → Built and deployed a personal portfolio site (React + Vite + Tailwind, Vercel)
 
 Now           Deepening spatial statistics & ML (GWR, LISA, spatial cross-validation)
