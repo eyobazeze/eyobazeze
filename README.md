@@ -197,7 +197,7 @@ I write breakdowns of my projects and design thinking, part portfolio, part lear
 ```text
 🔬  Building a GTFS + DEM elevation overlay accessibility analysis
 📚  Deepening spatial ML: GWR, spatial cross-validation, random forests
-🎨  Sharpening design-to-data workflows — Figma prototypes backed by real analysis
+🎨  Sharpening design-to-data workflows, Figma prototypes backed by real analysis
 ✍️  Publishing project breakdowns on LinkedIn & Medium
 ```
 
