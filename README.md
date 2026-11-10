@@ -69,8 +69,8 @@ Now           Deepening spatial statistics & ML (GWR, LISA, spatial cross-valida
 Combined OSM transit stops with WorldPop population raster data to map service gaps across the city.
 
 **Key findings**
-- 📍 47.4% of city area within transit coverage
-- 🔴 208 high-density underserved grid cells identified
+- 📍 75.4% of estimated residents live within 500 m (straight-line) of a mapped stop
+- 🔴 60 cells flagged as dense areas where most residents are beyond 500 m
 
 `Python` `GeoPandas` `Rasterio` `OSM`
 
