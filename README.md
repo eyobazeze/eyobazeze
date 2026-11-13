@@ -1,6 +1,6 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Eyob%20Azeze&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Design%20%C2%B7%20CS%20Graduate%20%C2%B7%20Urban%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Eyob%20Azeze&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Urban%20Analytics%20%C2%B7%20Transportation%20Planning%20%C2%B7%20Spatial%20Data%20Science&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://linkedin.com/in/eyobazeze"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://eyobazeze.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Designing+human-centered+smart+city+systems;Building+spatial+data+tools+for+Addis+Ababa;Bridging+UI%2FUX+design+and+urban+analytics;Turning+Figma+prototypes+into+working+apps" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Analyzing+urban+systems+through+spatial+data;Exploring+transportation+accessibility+in+African+cities;Building+data-driven+tools+for+urban+planning;Connecting+geospatial+analysis+with+human-centered+design" alt="Typing SVG"/>
 
 </div>
 
@@ -17,80 +17,101 @@
 
 ## 👋 About Me
 
-I'm a **UI/UX Designer and Computer Science graduate** (BSc, Gold Medalist, Microlink IT College) working at the intersection of **civic technology, spatial data science, and human-centered design**. My mission is bringing data-driven, accessible urban planning tools to Ethiopian cities, starting with Addis Ababa.
+I'm a **Computer Science graduate interested in urban analytics, transportation planning, and spatial data science**. I use computational methods and geospatial technologies to investigate how cities function, understand urban accessibility, and explore how data can support better planning decisions.
 
-- Design end-to-end product experiences in **Figma**: research, wireframes, prototyping, design systems
-- Build **Python geospatial tooling**: OSMnx, rasterio, GeoPandas, QGIS: to turn raw city data into insight
-- Apply spatial statistics and analysis: network accessibility, coverage modeling, spatial ML
-- Focused on **Smart Cities**, transit equity, and accessibility analytics for African urban contexts
-- Comfortable across the full stack of a civic-tech idea: design → data → working prototype
+My work is particularly focused on the challenges facing rapidly growing African cities, starting with **Addis Ababa, Ethiopia**. I'm interested in using spatial data, transportation networks, and computational analysis to understand where urban services are located, who can access them, and where significant gaps remain.
 
-I started as a designer thinking in flows and interfaces, then went looking for the data to back those decisions up, and found that most of the interesting problems in Addis Ababa (transit gaps, walkability, service access) needed real analysis, not just a prettier map. So I picked up Python, GeoPandas, and OSMnx to build tools that actually measure the city, and I use design skills to make the findings legible to people who aren't analysts. That combination, able to design the interface *and* run the numbers behind it, is what I bring to civic tech work.
+My technical work brings together:
+
+- **Urban & Transportation Analytics:** Transit accessibility, pedestrian networks, service coverage, and spatial patterns.
+- **Geospatial Data Science:** Python, GeoPandas, OSMnx, Rasterio, and geographic data visualization.
+- **Computational Methods:** Data processing, network analysis, spatial statistics, and quantitative research.
+- **Civic Technology & Smart Cities:** Exploring how data and digital tools can address practical urban challenges.
+- **UI/UX & Product Design:** Figma, user flows, prototyping, and translating complex information into understandable digital experiences.
+
+I graduated with a **BSc in Computer Science from Microlink Information Technology College**, earning a **3.94/4.00 GPA, Very Great Distinction, and a departmental Gold Medal**.
+
+My approach combines the analytical foundation of Computer Science with an interest in the built environment. I want to understand urban problems not only by visualizing them, but by measuring them, investigating their underlying patterns, and developing practical tools that make the findings useful.
 
 <br/>
 
 ## 🧭 My Journey
 
 ```text
-2021 – 2025   BSc Computer Science, Microlink IT College
-              → Graduated top of department, 3.94 GPA, Gold Medal
-              → Capstone: First-Time Parents Guidance App (2nd best CS project, cohort-wide)
+2021 – 2025   BSc in Computer Science
+              Microlink Information Technology College
+              → Graduated with a 3.94/4.00 GPA and Very Great Distinction
+              → Departmental Gold Medal
+              → Final-year project: First-Time Parents Guidance App
+              → Ranked 2nd among Computer Science department projects
 
-2024          Smart City Design Portfolio (Figma)
-              → 5 civic-tech concepts for Addis Ababa: transit, housing, walkability,
-                zoning, and civic feedback platforms
-              → Wrote in-depth Medium case studies for each
+2024          Smart City Design Portfolio
+              → Developed five civic-technology concepts for Addis Ababa
+              → Explored public transport, housing, walkability, zoning,
+                and citizen feedback through UI/UX design
+              → Documented design concepts and case studies
 
-2025          Pivot into Spatial Data Science
-              → Built a full Python geospatial environment (rasterio, GeoPandas, OSMnx, QGIS)
-              → Structured self-study across data cleaning, spatial analysis, and mapping
+2025          Expanding into Spatial Data Science
+              → Applied Python to geospatial data processing and analysis
+              → Developed practical workflows using GeoPandas, OSMnx,
+                Rasterio, and related tools
+              → Began investigating urban accessibility through spatial data
 
-2025 – 2026   Portfolio Projects: Design Meets Data
-              → Transit Accessibility Analysis: Addis Ababa (OSM + WorldPop)
-              → Network Accessibility Analysis: 72k-node walk network, hospitals & schools
-              → Built and deployed a personal portfolio site (React + Vite + Tailwind, Vercel)
+2025 – 2026   Computational Urban Analytics Projects
+              → Analyzed public transport accessibility in Addis Ababa
+              → Investigated healthcare and school accessibility
+                using pedestrian street networks
+              → Developed a portfolio connecting geospatial analysis,
+                urban research, and digital product design
 
-Now           Deepening spatial statistics & ML (GWR, LISA, spatial cross-validation)
-              → Working on a GTFS + DEM elevation overlay accessibility analysis
-              → Writing and sharing findings publicly on LinkedIn & Medium
+Currently     Developing my research and technical capabilities
+              → Exploring transportation data and accessibility analysis
+              → Deepening my understanding of spatial statistics
+                and spatial machine learning
+              → Sharing project findings and technical insights
 ```
 
 <br/>
 
 ## 🗺️ Featured Projects
 
+My projects explore how geospatial data and computational methods can help us understand urban systems and the accessibility of essential services.
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🚌 Transit Accessibility Analysis
-**Addis Ababa transit coverage & underserved areas**
 
-Combined OSM transit stops with WorldPop population raster data to map service gaps across the city.
+**Public transport proximity and underserved areas in Addis Ababa**
+
+An exploratory spatial analysis combining mapped public transport stops from OpenStreetMap with WorldPop population data to examine how residents are distributed in relation to transit infrastructure.
 
 **Key findings**
-- 📍 75.4% of estimated residents live within 500 m (straight-line) of a mapped stop
-- 🔴 60 cells flagged as dense areas where most residents are beyond 500 m
+- 📍 75.4% of the estimated population lives within 500 m of a mapped transit stop, measured by straight-line distance.
+- 🔴 Identified 60 high-density grid cells where most residents are beyond the 500 m threshold.
 
-`Python` `GeoPandas` `Rasterio` `OSM`
+`Python` `GeoPandas` `Rasterio` `OSM` `WorldPop`
 
-<a href="https://github.com/eyobazeze/urban-analytics-projects"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/eyobazeze/transit-accessibility-projects"><img src="https://img.shields.io/badge/View%20Research%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 Network Accessibility Analysis
-**Healthcare & school access via real street networks**
 
-Built a ~71,880-node walk network (OSMnx) to model true walking-distance access to 131 hospitals and 347 schools.
+**Walking access to healthcare and education facilities**
 
-**Key findings**
-- 📐 1.52× network-to-straight-line distance penalty
-- 🏫 Network-based accessibility mapping at scale
+Used an OpenStreetMap-derived pedestrian network to investigate walking-distance accessibility to healthcare facilities and schools in Addis Ababa.
 
-`Python` `OSMnx` `NetworkX` `Geospatial`
+**Project scope**
+- 🚶 Built a pedestrian network containing approximately 71,880 nodes.
+- 🏥 Analyzed access to 131 hospitals and 347 schools.
+- 📐 Compared network-based distances with straight-line distances, examining a 1.52× distance ratio.
 
-<a href="https://github.com/eyobazeze/network-accessibility-project"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+`Python` `OSMnx` `NetworkX` `Geospatial Analysis`
+
+<a href="https://github.com/eyobazeze/network-accessibility-project"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -98,25 +119,27 @@ Built a ~71,880-node walk network (OSMnx) to model true walking-distance access 
 <td width="50%" valign="top">
 
 ### 🚦 Smart Public Transport App
-**Flagship UI/UX case study, Figma**
 
-Full-flow smart transit app concept designed for Addis Ababa commuters, from wireframes to high-fidelity prototype.
+**UI/UX concept for urban mobility in Addis Ababa**
 
-`Figma` `UX Research` `Prototyping`
+A smart public transport application concept exploring how digital products could improve the commuter experience. The case study covers user flows, interface design, and high-fidelity prototyping.
 
-<a href="https://eyobazeze.medium.com"><img src="https://img.shields.io/badge/Read%20Case%20Study-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+`Figma` `UI/UX` `Prototyping` `Product Design`
+
+<a href="https://eyobazeze.medium.com"><img src="https://img.shields.io/badge/Read%20Design%20Case%20Studies-000000?style=flat-square&logo=medium&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ Smart City Portfolio (Figma Suite)
-**5-project civic tech design collection**
+### 🏙️ Smart City Design Portfolio
 
-Urban Feedback Platform, Affordable Housing Map, Inclusive Walkability Map, and Land Use Zoning Visualizer.
+**A collection of five civic-technology concepts**
 
-`Figma` `Civic Tech` `Service Design`
+A design portfolio exploring digital approaches to urban challenges, including urban feedback, affordable housing, inclusive walkability, land-use zoning, and public transportation.
 
-<a href="https://figma.com/@eyobazeze"><img src="https://img.shields.io/badge/View%20on%20Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+`Figma` `Civic Technology` `Service Design` `Urban Innovation`
+
+<a href="https://figma.com/@eyobazeze"><img src="https://img.shields.io/badge/Explore%20Figma%20Portfolio-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -128,7 +151,7 @@ Urban Feedback Platform, Affordable Housing Map, Inclusive Walkability Map, and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,figma,qgis,git,github,vscode,react,tailwind,vercel,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,react,tailwind,postgres,figma,qgis,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -138,31 +161,45 @@ Urban Feedback Platform, Affordable Housing Map, Inclusive Walkability Map, and 
 <tr>
 <td width="33%" valign="top">
 
-**Design**
-- Figma (flows, wireframes, hi-fi prototypes)
-- UX research & user flows
-- Design systems & component libraries
-- Case study & storytelling writeups
-
-</td>
-<td width="33%" valign="top">
-
-**Geospatial / Data**
-- Python (Pandas, GeoPandas, NumPy)
-- OSMnx · NetworkX · Rasterio
+**Geospatial & Data**
+- Python
+- Pandas & NumPy
+- GeoPandas
+- OSMnx
+- NetworkX
+- Rasterio
 - QGIS
-- Spatial statistics (Moran's I, LISA, GWR)
-- WorldPop / OSM / GTFS data sources
+- Matplotlib
+- OpenStreetMap data
+- WorldPop data
 
 </td>
 <td width="33%" valign="top">
 
-**Dev**
-- React · Vite · Tailwind
-- SQL (fundamentals → advanced)
-- Git / GitHub
-- Vercel deployment
-- ReportLab (PDF generation)
+**Development**
+- JavaScript
+- React
+- HTML & CSS
+- Tailwind CSS
+- SQL
+- Git & GitHub
+- Vite
+- Vercel
+- ReportLab
+
+</td>
+<td width="33%" valign="top">
+
+**Design & Research**
+- Figma
+- User flows
+- Wireframing
+- High-fidelity prototyping
+- Design systems
+- UX research
+- Network accessibility analysis
+- Spatial visualization
+- Technical documentation
 
 </td>
 </tr>
@@ -170,20 +207,46 @@ Urban Feedback Platform, Affordable Housing Map, Inclusive Walkability Map, and 
 
 <br/>
 
-## ✍️ Writing
+## 🔬 Research Interests
 
-I write breakdowns of my projects and design thinking, part portfolio, part learning-in-public.
+I'm particularly interested in developing the technical and analytical capabilities needed to study complex urban systems.
 
-- 📄 **Medium**: case studies on the Smart Public Transport App and other civic-tech concepts → [eyobazeze.medium.com](https://eyobazeze.medium.com)
-- 💼 **LinkedIn**: project walkthroughs, findings from the accessibility analyses, and progress updates → [linkedin.com/in/eyobazeze](https://linkedin.com/in/eyobazeze)
+- **Transportation Planning & Urban Mobility:** Public transport networks, pedestrian accessibility, and mobility patterns.
+- **Spatial Data Science:** Geospatial data processing, spatial relationships, and quantitative spatial analysis.
+- **Urban Analytics:** Measuring urban infrastructure, service distribution, and accessibility.
+- **Smart Cities & Civic Technology:** Data-driven approaches and digital systems for urban management.
+- **Computational Urban Research:** Applying programming, network science, and statistical methods to urban questions.
+
+I'm also developing my knowledge of spatial statistics and machine learning, including methods such as Moran's I, LISA, geographically weighted regression (GWR), and spatial cross-validation.
 
 <br/>
 
-## 📈 GitHub Stats
+## ✍️ Writing & Knowledge Sharing
+
+I share project walkthroughs, design case studies, and reflections on applying technology to urban challenges.
+
+- 📄 **Medium:** [eyobazeze.medium.com](https://eyobazeze.medium.com)
+- 💼 **LinkedIn:** [linkedin.com/in/eyobazeze](https://linkedin.com/in/eyobazeze)
+
+<br/>
+
+## 🎯 Currently Exploring
+
+```text
+🔬  Transportation accessibility and urban infrastructure analysis
+🗺️  Public transport data, GTFS, and elevation-based accessibility
+📚  Spatial statistics, spatial machine learning, and network analysis
+🎨  Connecting geospatial research with human-centered digital products
+✍️  Documenting and sharing technical research and project findings
+```
+
+<br/>
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eyobazeze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eyobazeze&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyobazeze&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobazeze&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
@@ -192,24 +255,15 @@ I write breakdowns of my projects and design thinking, part portfolio, part lear
 
 <br/>
 
-## 🎯 Currently
-
-```text
-🔬  Building a GTFS + DEM elevation overlay accessibility analysis
-📚  Deepening spatial ML: GWR, spatial cross-validation, random forests
-🎨  Sharpening design-to-data workflows, Figma prototypes backed by real analysis
-✍️  Publishing project breakdowns on LinkedIn & Medium
-```
-
-<br/>
-
 <div align="center">
 
 ### 📫 Let's Connect
 
-<a href="https://linkedin.com/in/eyobazeze"><img src="https://img.shields.io/badge/-Eyob%20Azeze-0A66C2?style=social&logo=linkedin"/></a>
-<a href="https://x.com/EyobAzeze"><img src="https://img.shields.io/badge/-EyobAzeze-000000?style=social&logo=x"/></a>
-<a href="https://eyobazeze.medium.com"><img src="https://img.shields.io/badge/-Read%20my%20writing-12100E?style=social&logo=medium"/></a>
+I'm interested in connecting with people working in **urban analytics, transportation planning, geospatial data science, smart cities, and civic technology**.
+
+<a href="https://linkedin.com/in/eyobazeze"><img src="https://img.shields.io/badge/LinkedIn-Eyob%20Azeze-0A66C2?style=social&logo=linkedin"/></a>
+<a href="https://x.com/EyobAzeze"><img src="https://img.shields.io/badge/X-EyobAzeze-000000?style=social&logo=x"/></a>
+<a href="https://eyobazeze.medium.com"><img src="https://img.shields.io/badge/Medium-Read%20my%20writing-12100E?style=social&logo=medium"/></a>
 
 <br/><br/>
 
