@@ -12,7 +12,7 @@
 
 </div>
 
-## 👋 About Me
+## About Me
 
 I'm a **Computer Science graduate** interested in **urban analytics, transportation planning, and spatial data science**. I use Python and geospatial technologies to investigate urban systems, analyze accessibility, and explore data-driven approaches to urban challenges, particularly in **Addis Ababa and other rapidly growing African cities**.
 
@@ -21,7 +21,7 @@ I also bring a background in **UI/UX design**, connecting computational analysis
 **Education:** BSc in Computer Science, Microlink Information Technology College  
 **Academic distinction:** 3.94/4.00 GPA · Very Great Distinction · Departmental Gold Medal
 
-## 🗺️ Featured Projects
+## Featured Projects
 
 ### 🚌 Transit Accessibility Analysis — Addis Ababa
 Combined OpenStreetMap transit data and WorldPop population estimates to investigate public transport proximity and spatial service gaps.
