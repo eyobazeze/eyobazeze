@@ -73,7 +73,7 @@ Designed civic-technology concepts addressing public transportation, housing, wa
 - Smart cities and civic technology
 - Computational approaches to urban planning
 
-## 🎯 Currently Exploring
+## Currently Exploring
 
 - Transportation data and GTFS-based accessibility analysis
 - Spatial statistics and spatial machine learning
