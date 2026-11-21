@@ -79,7 +79,7 @@ Designed civic-technology concepts addressing public transportation, housing, wa
 - Spatial statistics and spatial machine learning
 - Geospatial research and human-centered digital products
 
-## 📫 Let's Connect
+## Let's Connect
 
 Interested in **urban analytics, transportation planning, geospatial data science, and smart cities**.
 
