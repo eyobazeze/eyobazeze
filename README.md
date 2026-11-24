@@ -19,7 +19,7 @@ I'm a **Computer Science graduate** interested in **urban analytics, transportat
 I also bring a background in **UI/UX design**, connecting computational analysis with human-centered digital products.
 
 **Education:** BSc in Computer Science, Microlink Information Technology College  
-**Academic distinction:** 3.94/4.00 GPA · Very Great Distinction · Departmental Gold Medal
+**Academic distinction:** 3.94/4.00 CGPA · Very Great Distinction · Departmental Gold Medal
 
 ## Featured Projects
 
