@@ -23,7 +23,7 @@ I also bring a background in **UI/UX design**, connecting computational analysis
 
 ## Featured Projects
 
-### 🚌 Transit Accessibility Analysis — Addis Ababa
+### 🚌 Transit Accessibility Analysis, Addis Ababa
 Combined OpenStreetMap transit data and WorldPop population estimates to investigate public transport proximity and spatial service gaps.
 
 - 75.4% of estimated residents within 500 m of a mapped transit stop (straight-line distance).
